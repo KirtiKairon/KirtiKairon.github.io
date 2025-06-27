@@ -1,55 +1,74 @@
-# Data Scientist
+# **Dr. [Your Name]**  
+### *Data Scientist | Physicist | ML Researcher*
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+---
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+### 🧠 **Technical Expertise**
+**Languages & Tools**: Python, SQL, MATLAB  
+**Cloud & Data Platforms**: AWS, Snowflake  
+**Specialties**: Predictive Modeling, Signal Processing, Unsupervised Learning, Data Engineering  
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+---
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### 🎓 **Education**
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Ph.D. in Physics**  
+*The University of Texas at Dallas* — **May 2022**
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**M.S. in Physics**  
+*The University of Texas at Dallas* — **December 2019**
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**B.S. in Physics**  
+*The University of Texas at Dallas* — **May 2017**
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### 💼 **Professional Experience**
 
-![Bike Study](/assets/img/bike_study.jpeg)
+#### **Data Scientist**  
+**Toyota Financial Services** | *June 2022 – Present*  
+- Identified and resolved a critical flaw in the production data pipeline affecting **70%+ of active accounts**, restoring pipeline integrity and analytical reliability.  
+- Re-architected the loan originations model, achieving a **50% lift in predictive performance** and **$1M+ in cost savings** through improved default risk estimation.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+#### **Consultant (Machine Learning & Data Science)**  
+**Shawhin Talebi Ventures LLC** | *Dec 2020 – Present*  
+- Designed end-to-end data pipelines for a landmark study on human performance in **hyper-realistic, live-fire combat simulations**, analyzing over **300 biometric variables**.  
+- Applied unsupervised deep learning to **ICU patient data**, uncovering novel subtypes of sepsis with potential clinical significance.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+---
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### 📊 **Select Projects & Publications**
 
-- [Data Science Blog](https://medium.com/@shawhin)
+#### 📌 *Data-Driven EEG Band Discovery with Decision Trees*  
+[MDPI Sensors, 2022](https://www.mdpi.com/1424-8220/22/8/3048)  
+Developed a fully automated methodology in **Python** to discover EEG frequency bands via decision trees on power spectra. This approach yielded a **2× improvement** over traditional band boundaries and enables **automated detection** of neurophysiological markers.  
+
+<div align="center">
+  <img src="/assets/img/eeg_band_discovery.jpeg" alt="EEG Band Discovery" width="500"/>
+</div>
+
+---
+
+#### 📌 *Decoding Environmental Effects on Physiology from Biometric Data*  
+[MDPI Sensors, 2022](https://www.mdpi.com/1424-8220/22/11/4240)  
+Trained **100+ machine learning models** in **MATLAB** to infer ambient particulate matter concentrations from biometric data with **R² = 0.91**. Discovered that **smaller particles are more predictable**, offering insights into environmental exposure and its physiological impact.
+
+<div align="center">
+  <img src="/assets/img/bike_study.jpeg" alt="Bike Study" width="500"/>
+</div>
+
+---
+
+### 🎤 **Talks & Lectures**
+
+- *Causality: The New Science of an Old Question* — GSP Seminar, Fall 2021  
+- *Dimensionality Reduction* — Guest Lecture, PHYS 5336, Spring 2021  
+- *Fourier and Wavelet Transforms* — Guest Lecture, PHYS 5315, Fall 2020  
+- *A Brief Introduction to Optimization* — GSP Seminar, Fall 2019  
+- *Weeks of Welcome Poster Competition* — UTD, Fall 2019  
+- *A Brief Introduction to Networks* — GSP Seminar, Spring 2019  
+
+---
+
+### 🎥 **Outreach & Media**
+- [Data Science YouTube Channel](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
